@@ -1,7 +1,7 @@
 #!/bin/bash
 ################################
-# Author: Sam Roshan
-# Version: v1
+# Author: Sam Roshan.M 
+# Version: v12
 #
 #
 #
