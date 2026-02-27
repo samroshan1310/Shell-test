@@ -1,3 +1,3 @@
 #!/bin/bash
-temp=2
+temp=6
  echo "created using rebase"
